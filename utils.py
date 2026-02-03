@@ -648,7 +648,7 @@ async def send_all(bot, userid, files, ident, chat_id, user_name, query):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/rishu1286")
+                                InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/sohan18_jaat_bmr")
                                 ]
                             ]
                         )
@@ -746,3 +746,4 @@ async def get_seconds(time_string):
         return value * 86400 * 365
     else:
         return 0
+
