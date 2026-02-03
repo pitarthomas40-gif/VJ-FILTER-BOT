@@ -1,6 +1,7 @@
 pyrogram
 tgcrypto 
 pyromod
+distutils
 requests 
 bs4 
 shortzy 
@@ -36,5 +37,6 @@ googletrans==3.1.0a0
 telegraph==2.2.0 
 python-dotenv==0.21.1 
 gTTS==2.3.1 
+
 
 
